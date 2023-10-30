@@ -1,0 +1,27 @@
+.footer.facebook.btn.btn-primary.btn-floating.m-1{
+    background-color: #3b5998;
+}
+
+.footer.twitter.btn.btn-primary.btn-floating.m-1{
+    background-color: #55acee;
+}
+
+.footer.google.btn.btn-primary.btn-floating.m-1{
+    background-color: #dd4b39;
+}
+
+.footer.instagram.btn.btn-primary.btn-floating.m-1{
+    background-color: #ac2bac;
+}
+
+.footer.linkedin.footer.btn.btn-primary.btn-floating.m-1{
+    background-color: #0082ca;
+}
+
+.footer.github.btn.btn-primary.btn-floating.m-1{
+    background-color: #333333;
+}
+
+.footer.text-center.p-3{
+    background-color: rgba(0, 0, 0, 0.2);
+}
