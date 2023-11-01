@@ -5,11 +5,13 @@ import reportWebVitals from './reportWebVitals';
 import Header from './Layouts/Header';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Footer from './Layouts/Footer';
+import IframeMap from './Layouts/IframeMap';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
     <Header />
+    <IframeMap />
     <Footer />
   </React.StrictMode>
 );
