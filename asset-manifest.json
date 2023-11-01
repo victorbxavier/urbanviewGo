@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/urbanviewGo/static/css/main.ccbad898.css",
+    "main.js": "/urbanviewGo/static/js/main.14791bca.js",
+    "static/js/787.28cb0dcd.chunk.js": "/urbanviewGo/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/urbanviewGo/index.html",
+    "main.ccbad898.css.map": "/urbanviewGo/static/css/main.ccbad898.css.map",
+    "main.14791bca.js.map": "/urbanviewGo/static/js/main.14791bca.js.map",
+    "787.28cb0dcd.chunk.js.map": "/urbanviewGo/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ccbad898.css",
+    "static/js/main.14791bca.js"
+  ]
+}
